@@ -1,6 +1,6 @@
 import toast from "react-hot-toast";
 
-export const API_URL = process.env.REACT_APP_LOCAL_URL;
+export const API_URL = process.env.REACT_APP_PRODUCTION_URL;
 export const POST_REQUEST_TYPES = {
   auth: "AUTH",
   create: "CREATE",
