@@ -211,7 +211,7 @@ button:hover {
 .todo-item {
   border: 1px solid #ccc;
   padding: 10px;
-  margin: 10px 0;
+  margin: 5px;
   border-radius: 5px;
   width: 100%;
   max-width: 500px;
